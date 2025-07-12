@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Sanjeevi18/Sanjeevi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Sanjeevi
 
-Here are some ideas to get you started:
+🎓 I'm an MCA student passionate about building full-stack applications, especially with a focus on web and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I specialize in:
+- **Web Development**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express, MongoDB, Firebase
+- **Mobile Development**: Flutter & React Native
+- **Programming Languages**: C, C++, Java, Dart
+
+
+💼 Experience:
+- **💡 Intern at Ligths.inc** – Working on real-time finance applications using React Native (frontend) and Node.js (backend) with Firebase/MongoDB integration.
+- **🌐 Web Development Intern at CodSoft** – Completed a 4-week internship focused on responsive UI and dynamic web applications.
+
+
+📚 Recent Certifications:
+- Databricks: Generative AI Fundamentals
+- Web Development Internship at CodSoft
+
+🧠 Always exploring new tools and technologies. Passionate about solving real-world problems through code.
+
+🔗 Connect with me:
+- 📫 Email: sanjeevigoaplvijaya47@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sanjeevi-g-969bb2224/)
+
+
+---
+
+⭐ Check out my pinned repositories to see what I'm working on!
