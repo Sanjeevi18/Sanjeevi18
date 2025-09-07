@@ -5,7 +5,7 @@
 🎓 I'm an MCA student passionate about building full-stack applications, especially with a focus on web and mobile development.
 
 💻 I specialize in:
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Web Development**: HTML, CSS, JavaScript, React, Flutter
 - **Backend**: Node.js, Express, MongoDB, Firebase
 - **Mobile Development**: Flutter & React Native
 - **Programming Languages**: C, C++, Java, Dart
