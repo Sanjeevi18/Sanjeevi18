@@ -23,7 +23,7 @@
 🧠 Always exploring new tools and technologies. Passionate about solving real-world problems through code.
 
 🔗 Connect with me:
-- 📫 Email: sanjeevigoaplvijaya47@gmail.com  
+- 📫 Email: sanjeevigopalvijaya47@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sanjeevi-g-969bb2224/)
 
 
